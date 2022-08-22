@@ -4,6 +4,7 @@ body{
   height: 100vh;
   margin: 0;
   background: black;
+  justify-content: center;
 }
 .netflix {
   width: 140px;
